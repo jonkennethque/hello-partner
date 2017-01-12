@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Timothy Marc Hu</title>
+		<meta keyword="author" value="Jon Kenneth Que"/>
+		<meta keyword="description" value="WEBDEVT Exercise #1"/>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" href=""
+	</head>
+	<body>
+		<div class="container">
+			<h1 class="text-center">Timothy Marc Hu</h1>
+			<div class="col-lg-6 col-xs-6">
+				<div class="well">
+					<!-- place your 300 words -->
+				</div>
+			</div>
+			<div class="col-lg-6 col-md" >
+				<div class="well">
+					<h3 class="text-center">
+						Top 5 favorite games
+					</h3>
+					<ui>
+						<li>
+							C# <br/>
+							<img src='' class="img-responsive img-circle" alt="No image found"
+						</li>
+					</ui>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
